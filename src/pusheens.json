@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Burrito",
+      "image": "https://media1.tenor.com/images/781fd2dfc5f1d8037f7b4af9342c71d4/tenor.gif?itemid=5163505"
+    },
+    {
+        "id": 2,
+        "name": "Noodle",
+        "image": "https://i.gifer.com/79qB.gif"
+    },
+    {
+        "id": 3,
+        "name": "Pizza",
+        "image": "https://i.gifer.com/Qmdp.gif"
+    },
+    {
+        "id": 4,
+        "name": "Sushi",
+        "image": "https://media1.giphy.com/media/tN1YiOeZmIRKE/giphy-preview.gif"
+    },
+    {
+        "id": 5,
+        "name": "Bulbasaur",
+        "image": "https://i.pinimg.com/originals/05/49/d9/0549d9c8c0b6c81687a89f105982d747.gif"
+    },
+    {
+        "id": 6,
+        "name": "Burger",
+        "image": "https://cdn2.scratch.mit.edu/get_image/user/19128200_60x60.png"
+    },
+    {
+        "id": 7,
+        "name": "Bacon",
+        "image": "https://thumbs.gfycat.com/NastyDecimalAntbear-max-1mb.gif"
+    },
+    {
+        "id": 8,
+        "name": "Bread",
+        "image": "https://i.gifer.com/GWvB.gif"
+    },
+    {
+        "id": 9,
+        "name": "Sombrero",
+        "image": "https://media.giphy.com/media/TN0kjxBsz3iXm/giphy.gif"
+    },
+    {
+        "id": 10,
+        "name": "Tree",
+        "image": "https://i.gifer.com/8Vti.gif"
+    },
+    {
+        "id": 11,
+        "name": "Seal",
+        "image": "https://i.imgur.com/q0nIuJI.gif"
+    },
+    {
+        "id": 12,
+        "name": "Onigiri",
+        "image": "http://31.media.tumblr.com/0bb855c029671cb1a9bfda8fc9992838/tumblr_nuylusDXoW1sizirwo1_400.gif"
+    }
+]
